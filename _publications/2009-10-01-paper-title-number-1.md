@@ -2,11 +2,13 @@
 title: "The role of optimization in some recent advances in data-driven decision-making"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We review some recent advances that highlight the difference that optimization can make in data-driven decision-making'
+date: 08/11/2022
+venue: 'Mathematical Programming'
+paperurl: 'https://rdcu.be/cTvux'
+citation: 'Baardman, L., Cristian, R., Perakis, G., Singhvi, D., Skali Lami, O., & Thayaparan, L. (2022). The role of optimization in some recent advances in data-driven decision-making. Mathematical Programming, 1-35.'
 ---
-Published in _Mathematical Programming (2022)_
 
+We review some recent advances that highlight the difference that optimization can make in data-driven decision-making. We discuss some of our contributions that aim to advance both predictive and prescriptive models. First, we describe how we can optimally estimate clustered models that result in improved predictions. Next, we consider how we can optimize over objective functions that arise from tree ensemble models in order to obtain better prescriptions. Finally, we discuss how we can learn optimal solutions directly from the data allowing for prescriptions without the need for predictions. 
+
+[Download paper here](https://rdcu.be/cTvux)
