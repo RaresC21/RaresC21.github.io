@@ -3,7 +3,7 @@ title: "Learning near-optimal decisions: from SAA to robust optimization"
 collection: publications
 permalink: /publication/Robust
 excerpt: 'We propose a novel approach that directly recommends robust, near-optimal decisions based on data within the context of contextual stochastic optimization problems.'
-date: 2022
+date: 2022-01-01
 venue: 'In Preparation'
 paperurl: ''
 citation: 'Cristian, R., Perakis, G. (2022). Learning near-optimal decisions: from SAA to robust optimization'
