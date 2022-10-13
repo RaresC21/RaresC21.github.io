@@ -1,7 +1,7 @@
 ---
 title: "The role of optimization in some recent advances in data-driven decision-making"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/MathProgramming
 excerpt: 'We review some recent advances that highlight the difference that optimization can make in data-driven decision-making'
 date: 08/11/2022
 venue: 'Mathematical Programming'
