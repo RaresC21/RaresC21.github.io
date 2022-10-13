@@ -1,12 +1,12 @@
 ---
 title: "End-to-end learning via constraint-enforcing approximators for linear programs with applications to supply chains"
 collection: publications
-permalink: /publication/End-to-end-learning-ProjectNet
+permalink: /papers/End-to-end-learning-ProjectNet
 excerpt: 'We present a novel appoach in joint prediction and optimization by introducing a neural network architecture (ProjectNet) capable of approximately solving optimization problems.'
 date: 28/02/2022
 venue: 'AAAI-22 Workshop on AI for Decision Optimization'
-paperurl: '[url](https://research.ibm.com/haifa/Workshops/AAAI-22-AI4DO/PDF/End-to-End%20Learning%20via%20Constraint-Enforcing%20Approximators%20for%20LinearPrograms%20with%20Applications%20to%20Supply%20Chains.pdf)'
-citation: 'Cristian, Rares, et al. "End-to-End Learning via Constraint-Enforcing Approximators for Linear Programs with Applications to Supply Chains." (2022).'
+paperurl: [url](https://research.ibm.com/haifa/Workshops/AAAI-22-AI4DO/PDF/End-to-End%20Learning%20via%20Constraint-Enforcing%20Approximators%20for%20LinearPrograms%20with%20Applications%20to%20Supply%20Chains.pdf)
+citation: 'Cristian, R., Harsha, P., Perakis, G., Quanz, B. L., & Spantidakis, I. (2022). End-to-End Learning via Constraint-Enforcing Approximators for Linear Programs with Applications to Supply Chains.'
 ---
 
 In many real-world applications, predictive methods are used to provide inputs for downstream optimization problems. It has been shown that using the downstream task-based objective to learn the intermediate predictive model is often better than using only intermediate task objectives, such as prediction error. The difficulty in end-to-end learning lies in differentiating through the optimization problem. Therefore, we propose a neural network architecture that can learn to approximately solve these optimization problems, particularly ensuring its output satisfies the feasibility constraints via alternate projections.
