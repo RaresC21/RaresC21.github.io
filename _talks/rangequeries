@@ -1,0 +1,16 @@
+---
+title: "Online semigroup queries on arrays and paths on trees "
+collection: talks
+type: "Seminar"
+permalink: /talks/range-queries
+venue: "MIT Operations Research Center Student Seminar"
+date: 2022-09-30
+location: "Cambridge, MA"
+---
+
+We consider a common class of database range queries which consists of evaluating a given function on contiguous subranges of arrays. 
+For instance, this may be the average or minimum of a range. Such queries are also common subroutines in various algorithms. 
+A common approach to tackling the range query problem for semigroup operators is to precompute the answer for a small subset of ranges, and combine these solutions when answering any given query. For instance, the sum of the elements from index i to index j can be computed as the answers to the ranges from i to k and k+1 to j for i <= k < j. 
+This introduces an inherent tradeoff between the precomputation complexity and the query complexity - the more precomputation, 
+the less query time required. Moreover, we consider a data-driven case and design a method to make better precompuation decisions than traditional methods.
+ 
