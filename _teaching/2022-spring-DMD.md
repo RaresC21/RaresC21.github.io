@@ -1,5 +1,5 @@
 ---
-title: "15.730 Data, Models and Decisions"
+title: "15.730 Data, Models and Decisions (Spring 2022)"
 collection: teaching
 type: "Executive MBA course"
 permalink: /teaching/dmd2022
