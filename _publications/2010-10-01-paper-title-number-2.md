@@ -4,7 +4,7 @@ collection: publications
 permalink: /papers/End-to-end-learning-ProjectNet
 excerpt: 'We present a novel appoach in joint prediction and optimization by introducing a neural network architecture (ProjectNet) capable of approximately solving optimization problems.'
 date: 28/02/2022
-venue: 'AAAI-22 Workshop on AI for Decision Optimization'
+venue: 'AAAI-23 Main Track'
 paperurl: ''
 citation: 'Cristian, R., Harsha, P., Perakis, G., Quanz, B. L., & Spantidakis, I. (2022). End-to-End Learning via Constraint-Enforcing Approximators for Linear Programs with Applications to Supply Chains.'
 ---
