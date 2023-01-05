@@ -6,7 +6,7 @@ excerpt: 'We propose a novel approach that directly recommends robust, near-opti
 date: 2022-01-01
 venue: 'In Preparation'
 paperurl: ''
-citation: 'Cristian, R., Perakis, G. (2022). Learning near-optimal decisions: from SAA to robust optimization'
+citation: 'Cristian, R., Perakis, G. (2022). Learning Robust Decisions for Contextual Stochastic Optimization Problems Directly from Data'
 ---
 
 We propose a robust method in solving the end-to-end problems. We propose a novel approach that directly recommends robust, near-optimal decisions based on data. Our proposed approach is based on an optimization problem we introduce that encompasses a feature-based Sample Average Approximation (SAA) approach and robust optimization as special cases. 
