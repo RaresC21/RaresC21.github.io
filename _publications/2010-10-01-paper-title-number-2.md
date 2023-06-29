@@ -1,5 +1,5 @@
 ---
-title: "End-to-end learning via constraint-enforcing approximators for linear programs with applications to supply chains"
+title: "End-to-End Learning for Optimization via Constraint-Enforcing Approximators"
 collection: publications
 permalink: /papers/End-to-end-learning-ProjectNet
 excerpt: 'We present a novel appoach in joint prediction and optimization by introducing a neural network architecture (ProjectNet) capable of approximately solving optimization problems.'
