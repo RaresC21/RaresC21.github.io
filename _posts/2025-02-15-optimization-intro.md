@@ -6,4 +6,4 @@ tags:
   - optimization
 ---
 
-How does optimization shape the world?
+How does optimization shape the world? $\arg \min_{x \in P} c^Tx$
